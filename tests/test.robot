@@ -1,5 +1,4 @@
 *** Settings ***
-Documentation     Simple example using SeleniumLibrary.
 Library           SeleniumLibrary
 Resource    ../resources/DataLabPage.robot
 Resource    ../resources/SignInToEpamPage.robot
