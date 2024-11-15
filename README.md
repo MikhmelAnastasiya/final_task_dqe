@@ -7,5 +7,8 @@ python -m venv .venv
 Installing the Robot Framework 
 pip install robotframework
 
-Install Selenium 
+Install Selenium Library
 pip install --upgrade robotframework-seleniumlibrary
+
+Run tests
+robot .\tests\test.robot 
